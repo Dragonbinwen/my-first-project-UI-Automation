@@ -1,0 +1,154 @@
+2026-02-11 16:51:05.822 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-11 16:51:07.402 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-11 16:51:12.459 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-11 16:51:12.551 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-11 16:51:12.625 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-11 16:51:12.688 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-11 16:51:16.379 | INFO     | common.base_page:is_display:78 - 获取元素('xpath', '//span[text()="欢迎来到柠檬班"]')的显示状态:True
+2026-02-11 16:51:16.407 | INFO     | common.base_page:get_text:67 - 获取该元素('xpath', '//a[@class="link-name"]')的文本值:lemon_auto
+2026-02-11 16:51:16.408 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-11 16:51:18.566 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-11 16:51:20.121 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-11 16:51:25.192 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-11 16:51:25.281 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-11 16:51:25.350 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-11 16:51:25.413 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-11 16:51:27.489 | INFO     | common.base_page:input:54 - ('xpath', '//div[@class="search-input-box"]/input')执行输入操作，输入:香水
+2026-02-11 16:51:29.052 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="search-input-box"]/following-sibling::input')执行点击操作
+2026-02-11 16:51:29.121 | INFO     | common.base_page:click:40 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作
+2026-02-11 16:51:34.273 | ERROR    | common.base_page:wait_element_clickable:19 - ('xpath', '//div[contains(text(),"香水")]')等待元素可被点击发生了异常
+2026-02-11 16:51:34.273 | ERROR    | common.base_page:click:44 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作报错
+2026-02-11 16:51:34.435 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-11 16:51:34.483 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-11 16:51:36.117 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-11 16:51:41.279 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-11 16:51:41.372 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-11 16:51:41.446 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-11 16:51:41.512 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-11 16:51:43.584 | INFO     | common.base_page:click:40 - ('xpath', '//span[@data-route="userCenter"]')执行点击操作
+2026-02-11 16:51:45.160 | INFO     | common.base_page:mouse_move_to:123 - 鼠标移动到指定元素上:('xpath', '//div[@class="portrait"]')
+2026-02-11 16:51:46.471 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="edit"]')执行点击操作
+2026-02-11 16:51:46.539 | INFO     | common.base_page:click:40 - ('class name', 'el-upload--text')执行点击操作
+2026-02-11 16:51:47.117 | INFO     | common.base_page:win_upload_select:135 - windows文件上传窗口选择，输入文件路径:C:\Users\86180\Desktop\test.png
+2026-02-11 16:51:53.382 | INFO     | common.base_page:click:40 - ('link text', '保存账户信息')执行点击操作
+2026-02-11 16:51:58.608 | ERROR    | common.base_page:wait_element_visible:27 - ('xpath', '//p[@class="el-message__content"]')等待元素可见发生了异常
+2026-02-11 16:51:58.608 | ERROR    | common.base_page:get_text:70 - 获取元素('xpath', '//p[@class="el-message__content"]')的文本值报错
+2026-02-11 16:52:00.760 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-11 16:52:44.919 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-11 16:52:46.540 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-11 16:52:51.476 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-11 16:52:51.573 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-11 16:52:51.639 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-11 16:52:51.702 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-11 16:52:55.096 | INFO     | common.base_page:is_display:78 - 获取元素('xpath', '//span[text()="欢迎来到柠檬班"]')的显示状态:True
+2026-02-11 16:52:55.121 | INFO     | common.base_page:get_text:67 - 获取该元素('xpath', '//a[@class="link-name"]')的文本值:lemon_auto
+2026-02-11 16:52:55.122 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-11 16:52:57.277 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-11 16:52:58.830 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-11 16:53:04.185 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-11 16:53:04.274 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-11 16:53:04.349 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-11 16:53:04.420 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-11 16:53:06.496 | INFO     | common.base_page:input:54 - ('xpath', '//div[@class="search-input-box"]/input')执行输入操作，输入:香水
+2026-02-11 16:53:07.874 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="search-input-box"]/following-sibling::input')执行点击操作
+2026-02-11 16:53:07.943 | INFO     | common.base_page:click:40 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作
+2026-02-11 16:53:13.098 | ERROR    | common.base_page:wait_element_clickable:19 - ('xpath', '//div[contains(text(),"香水")]')等待元素可被点击发生了异常
+2026-02-11 16:53:13.098 | ERROR    | common.base_page:click:44 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作报错
+2026-02-11 16:53:13.262 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-11 16:53:13.309 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-11 16:53:14.884 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-11 16:53:19.847 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-11 16:53:19.944 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-11 16:53:20.013 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-11 16:53:20.076 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-11 16:53:22.163 | INFO     | common.base_page:click:40 - ('xpath', '//span[@data-route="userCenter"]')执行点击操作
+2026-02-11 16:53:24.047 | INFO     | common.base_page:mouse_move_to:123 - 鼠标移动到指定元素上:('xpath', '//div[@class="portrait"]')
+2026-02-11 16:53:25.343 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="edit"]')执行点击操作
+2026-02-11 16:53:30.592 | ERROR    | common.base_page:wait_element_clickable:19 - ('xpath', '//div[@class="edit"]')等待元素可被点击发生了异常
+2026-02-11 16:53:30.592 | ERROR    | common.base_page:click:44 - ('xpath', '//div[@class="edit"]')执行点击操作报错
+2026-02-11 16:53:32.759 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-12 17:33:30.060 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-12 17:33:56.015 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-12 17:34:03.812 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-12 17:34:03.814 | ERROR    | common.base_page:wait_element_clickable:19 - ('link text', '登录')等待元素可被点击发生了异常
+2026-02-12 17:34:03.814 | ERROR    | common.base_page:click:44 - ('link text', '登录')执行点击操作报错
+2026-02-12 17:34:03.973 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-12 17:34:04.045 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-12 17:34:05.783 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-12 17:34:12.819 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-12 17:34:12.910 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-12 17:34:12.993 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-12 17:34:13.056 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-12 17:34:15.133 | INFO     | common.base_page:input:54 - ('xpath', '//div[@class="search-input-box"]/input')执行输入操作，输入:香水
+2026-02-12 17:34:20.040 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-12 17:34:21.670 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-12 17:34:26.571 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-12 17:34:26.667 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-12 17:34:26.729 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-12 17:34:26.786 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-12 17:34:32.594 | INFO     | common.base_page:is_display:78 - 获取元素('xpath', '//span[text()="欢迎来到柠檬班"]')的显示状态:True
+2026-02-12 17:34:32.618 | INFO     | common.base_page:get_text:67 - 获取该元素('xpath', '//a[@class="link-name"]')的文本值:lemon_auto
+2026-02-12 17:34:32.619 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-12 17:34:34.815 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-12 17:34:36.473 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-12 17:34:42.769 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-12 17:34:42.870 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-12 17:34:42.954 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-12 17:34:43.029 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-12 17:34:45.113 | INFO     | common.base_page:input:54 - ('xpath', '//div[@class="search-input-box"]/input')执行输入操作，输入:香水
+2026-02-12 17:34:46.558 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="search-input-box"]/following-sibling::input')执行点击操作
+2026-02-12 17:34:46.632 | INFO     | common.base_page:click:40 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作
+2026-02-12 17:34:51.798 | ERROR    | common.base_page:wait_element_clickable:19 - ('xpath', '//div[contains(text(),"香水")]')等待元素可被点击发生了异常
+2026-02-12 17:34:51.798 | ERROR    | common.base_page:click:44 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作报错
+2026-02-12 17:34:51.971 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-12 17:34:52.058 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-12 17:34:53.700 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-12 17:34:59.250 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-12 17:34:59.349 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-12 17:34:59.427 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-12 17:34:59.493 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-12 17:35:01.565 | INFO     | common.base_page:click:40 - ('xpath', '//span[@data-route="userCenter"]')执行点击操作
+2026-02-12 17:35:03.638 | INFO     | common.base_page:mouse_move_to:123 - 鼠标移动到指定元素上:('xpath', '//div[@class="portrait"]')
+2026-02-12 17:35:04.940 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="edit"]')执行点击操作
+2026-02-12 17:35:05.001 | INFO     | common.base_page:click:40 - ('class name', 'el-upload--text')执行点击操作
+2026-02-12 17:35:05.586 | INFO     | common.base_page:win_upload_select:135 - windows文件上传窗口选择，输入文件路径:C:\Users\86180\Desktop\test.png
+2026-02-12 17:35:11.888 | INFO     | common.base_page:click:40 - ('link text', '保存账户信息')执行点击操作
+2026-02-12 17:35:17.150 | ERROR    | common.base_page:wait_element_visible:27 - ('xpath', '//p[@class="el-message__content"]')等待元素可见发生了异常
+2026-02-12 17:35:17.150 | ERROR    | common.base_page:get_text:70 - 获取元素('xpath', '//p[@class="el-message__content"]')的文本值报错
+2026-02-12 17:35:19.314 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-26 10:33:37.202 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-26 10:33:44.734 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-26 10:33:48.826 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-26 10:33:48.948 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-26 10:33:48.978 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-26 10:33:48.998 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-26 10:33:52.097 | INFO     | common.base_page:is_display:78 - 获取元素('xpath', '//span[text()="欢迎来到柠檬班"]')的显示状态:True
+2026-02-26 10:33:52.114 | INFO     | common.base_page:get_text:67 - 获取该元素('xpath', '//a[@class="link-name"]')的文本值:lemon_auto
+2026-02-26 10:33:52.115 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-26 10:33:52.975 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-26 10:34:01.725 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-26 10:34:05.821 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-26 10:34:05.945 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-26 10:34:05.977 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-26 10:34:05.997 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-26 10:34:08.081 | INFO     | common.base_page:input:54 - ('xpath', '//div[@class="search-input-box"]/input')执行输入操作，输入:香水
+2026-02-26 10:34:08.107 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="search-input-box"]/following-sibling::input')执行点击操作
+2026-02-26 10:34:08.186 | INFO     | common.base_page:click:40 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作
+2026-02-26 10:34:13.299 | ERROR    | common.base_page:wait_element_clickable:19 - ('xpath', '//div[contains(text(),"香水")]')等待元素可被点击发生了异常
+2026-02-26 10:34:13.299 | ERROR    | common.base_page:click:44 - ('xpath', '//div[contains(text(),"香水")]')执行点击操作报错
+2026-02-26 10:34:13.413 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================
+2026-02-26 10:34:14.266 | INFO     | conftest:open_browser:26 - 选择的环境地址是:http://mall.lemonban.com:3344/
+2026-02-26 10:34:21.441 | INFO     | conftest:open_browser:29 - ===============================打开Chrome浏览器================================
+2026-02-26 10:34:25.797 | INFO     | common.base_page:click:40 - ('link text', '登录')执行点击操作
+2026-02-26 10:34:25.915 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入手机号/用户名"]')执行输入操作，输入:lemon_auto
+2026-02-26 10:34:25.944 | INFO     | common.base_page:input:54 - ('xpath', '//input[@placeholder="请输入密码"]')执行输入操作，输入:lemon123456
+2026-02-26 10:34:25.964 | INFO     | common.base_page:click:40 - ('xpath', '//a[@class="login-button"]')执行点击操作
+2026-02-26 10:34:28.041 | INFO     | common.base_page:click:40 - ('xpath', '//span[@data-route="userCenter"]')执行点击操作
+2026-02-26 10:34:28.116 | INFO     | common.base_page:mouse_move_to:123 - 鼠标移动到指定元素上:('xpath', '//div[@class="portrait"]')
+2026-02-26 10:34:29.395 | INFO     | common.base_page:click:40 - ('xpath', '//div[@class="edit"]')执行点击操作
+2026-02-26 10:34:29.468 | INFO     | common.base_page:click:40 - ('class name', 'el-upload--text')执行点击操作
+2026-02-26 10:34:30.056 | INFO     | common.base_page:win_upload_select:135 - windows文件上传窗口选择，输入文件路径:C:\Users\86180\Desktop\test.png
+2026-02-26 10:34:36.321 | INFO     | common.base_page:click:40 - ('link text', '保存账户信息')执行点击操作
+2026-02-26 10:34:41.606 | ERROR    | common.base_page:wait_element_visible:27 - ('xpath', '//p[@class="el-message__content"]')等待元素可见发生了异常
+2026-02-26 10:34:41.606 | ERROR    | common.base_page:get_text:70 - 获取元素('xpath', '//p[@class="el-message__content"]')的文本值报错
+2026-02-26 10:34:43.715 | INFO     | conftest:open_browser:33 - ===============================关闭Chrome浏览器================================

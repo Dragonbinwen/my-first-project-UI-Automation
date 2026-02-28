@@ -1,0 +1,76 @@
+1772073063786	geckodriver	INFO	Listening on 127.0.0.1:52740
+1772073066828	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileLLuYBb"
+1772073068169	geckodriver	INFO	Listening on 127.0.0.1:52793
+1772073071193	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileOKfpzw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1772073071592	Marionette	INFO	Marionette enabled
+1772073071701	Marionette	INFO	Listening on port 52846
+Read port: 52846
+WebDriver BiDi listening on ws://127.0.0.1:52794
+1772073071752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1772073085850	Marionette	INFO	Stopped listening on port 52846
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1772073091202	geckodriver	INFO	Listening on 127.0.0.1:53026
+1772073094273	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileWzWda8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1772073094618	Marionette	INFO	Marionette enabled
+1772073094714	Marionette	INFO	Listening on port 53083
+WebDriver BiDi listening on ws://127.0.0.1:53027
+Read port: 53083
+1772073095011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1772073119000	Marionette	INFO	Stopped listening on port 53083
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+console.error: ({err:(new Error("file picker crashed, but no browser windows were available to report this", "resource:///modules/FilePickerCrashed.sys.mjs", 42)), bag:({}), ctx:{}})
+JavaScript error: resource:///modules/FilePickerCrashed.sys.mjs, line 42: Error: file picker crashed, but no browser windows were available to report this
+1772073219218	geckodriver	INFO	Listening on 127.0.0.1:53962
+1772073222293	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezzyazr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1772073222635	Marionette	INFO	Marionette enabled
+1772073222731	Marionette	INFO	Listening on port 53996
+WebDriver BiDi listening on ws://127.0.0.1:53963
+Read port: 53996
+1772073222856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1772073232118	Marionette	INFO	Stopped listening on port 53996
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1772073234025	geckodriver	INFO	Listening on 127.0.0.1:54098
+1772073237094	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileni1COc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1772073237444	Marionette	INFO	Marionette enabled
+1772073237539	Marionette	INFO	Listening on port 54149
+WebDriver BiDi listening on ws://127.0.0.1:54099
+Read port: 54149
+1772073237848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1772073253416	Marionette	INFO	Stopped listening on port 54149
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1772073255751	geckodriver	INFO	Listening on 127.0.0.1:54272
+1772073258812	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileQAuGxq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1772073259168	Marionette	INFO	Marionette enabled
+1772073259267	Marionette	INFO	Listening on port 54331
+WebDriver BiDi listening on ws://127.0.0.1:54273
+Read port: 54331
+1772073259574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1772073283718	Marionette	INFO	Stopped listening on port 54331
+Dynamically enable window occlusion 1
+console.error: Translations: "Failed to run language detection." (new AbortError("Actor 'Translations' destroyed before query 'Translations:GetDocumentElementLang' was resolved", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+console.error: ({err:(new Error("file picker crashed, but no browser windows were available to report this", "resource:///modules/FilePickerCrashed.sys.mjs", 42)), bag:({}), ctx:{}})
+JavaScript error: resource:///modules/FilePickerCrashed.sys.mjs, line 42: Error: file picker crashed, but no browser windows were available to report this
