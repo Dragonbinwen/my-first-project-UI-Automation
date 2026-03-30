@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b48dc1-3588-443f-baf5-09f62b0b300f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tigerfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tigerfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tigerfile.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tigerfile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="81">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -281,7 +280,21 @@
       <option name="project" value="LOCAL" />
       <updated>1772511518968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加tiger文件">
+      <created>1774854780428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774854780428</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加tiger文件2">
+      <created>1774854827312</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774854827312</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -361,7 +374,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一个版本" />
     <MESSAGE value="UI自动化初次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI自动化初次提交" />
+    <MESSAGE value="添加tiger文件" />
+    <MESSAGE value="添加tiger文件2" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加tiger文件2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/output/allure-results/780e106f-6cbf-460a-8af1-108ef21f6f21-result.json" />
@@ -548,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tigerfile.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
