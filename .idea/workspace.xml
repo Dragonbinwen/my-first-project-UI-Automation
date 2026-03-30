@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="84b48dc1-3588-443f-baf5-09f62b0b300f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/新增加.txt" beforeDir="false" afterPath="$PROJECT_DIR$/新增加.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/新增加.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="135">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -347,7 +346,28 @@
       <option name="project" value="LOCAL" />
       <updated>1774855951561</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="txt新增加">
+      <created>1774856036810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774856036810</updated>
+    </task>
+    <task id="LOCAL-00010" summary="txt新增加--加了行python">
+      <created>1774856156637</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774856156637</updated>
+    </task>
+    <task id="LOCAL-00011" summary="本地增加">
+      <created>1774856921204</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774856921204</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -384,7 +404,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3424479" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -433,7 +452,10 @@
     <MESSAGE value="减去一行" />
     <MESSAGE value="加第8行" />
     <MESSAGE value="新添加---新增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="新添加---新增加" />
+    <MESSAGE value="txt新增加" />
+    <MESSAGE value="txt新增加--加了行python" />
+    <MESSAGE value="本地增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="本地增加" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/output/allure-results/bff4705a-58ca-4f58-a354-49c5b0c6830e-container.json" />
@@ -630,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/新增加.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
